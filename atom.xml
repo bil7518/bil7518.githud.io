@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bil7518.github.io/bil7518.github.io</id>
+    <title>小杨博客</title>
+    <updated>2023-01-14T01:48:35.734Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bil7518.github.io/bil7518.github.io"/>
+    <link rel="self" href="https://bil7518.github.io/bil7518.github.io/atom.xml"/>
+    <subtitle>欢迎来到我的博客!</subtitle>
+    <logo>https://bil7518.github.io/bil7518.github.io/images/avatar.png</logo>
+    <icon>https://bil7518.github.io/bil7518.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 小杨博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://bil7518.github.io/bil7518.github.io/post/test/</id>
+        <link href="https://bil7518.github.io/bil7518.github.io/post/test/">
+        </link>
+        <updated>2023-01-14T01:25:27.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="ss">ss</h1>
+]]></content>
+    </entry>
+</feed>
